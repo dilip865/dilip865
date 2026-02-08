@@ -1,48 +1,86 @@
-<!-- Profile Banner -->
+<h1 align="center">👋 Hi, I'm Dilip Kumar</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Hi%20I'm%20Dilip%20Kumar&fontSize=40&fontColor=ffffff" alt="Header Image" />
+  🎓 MCA Graduate | 📊 Aspiring Data Analyst | 📍 Bangalore, India
 </p>
 
-<!-- Profile Pic (Optional) -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID" width="150" style="border-radius: 50%" alt="Profile Picture"/>
+<hr>
+
+<h2>🎓 Education</h2>
+<ul>
+  <li><b>Master of Computer Applications (MCA)</b> – VTU, Bangalore (Completed)</li>
+  <li><b>Undergraduate Degree</b> – Sri Venkateswara University (SVU)</li>
+</ul>
+
+<p>
+Currently undergoing <b>Data Analyst professional training</b> at <b>ExcelR, Bangalore</b>.
 </p>
-### ✨ About Me
-Name: Dilip Kumar
 
-Education:
-  MCA: VTU, Bangalore
-  UG: SVU
-  
-Interest:
-  - Java Development
-  - Web Technologies
-  - Real-world Software Projects
-Goal: "To build reliable, user-friendly software that makes a difference"
-🔧 Tech Stack
+<hr>
 
-##Languages	Web Tech	Tools	Database
+<h2>💡 About Me</h2>
+<p>
+I am an aspiring <b>Data Analyst</b> with hands-on experience in data cleaning, analysis,
+SQL querying, and dashboard development. I enjoy transforming raw data into
+meaningful insights using modern analytics tools.
+</p>
 
-Java 🧠	HTML/CSS 🌐	Git, GitHub 🔗	MySQL 💾
+<p>
+🎯 <b>Career Goal:</b> To start my career as a <b>Junior / Trainee Data Analyst</b> and contribute
+to data-driven business decisions.
+</p>
 
-JavaScript 🖥️	Bootstrap 🎨	VS Code ⚙️	Oracle 🛢️
+<hr>
 
-🚀 Projects
-🛠 Tender Management System
+<h2>🛠️ Tech Stack</h2>
 
-A web-based app that simplifies tender posting, bidding, and tracking for organizations and vendors.
+<h3>📌 Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/SQL-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge">
+</p>
 
-🧪 More Projects Coming Soon!
+<h3>📊 Analytics & BI Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tableau-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Power%20BI-gold?style=for-the-badge">
+</p>
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" width="47%" /> </p>
-🌐 Let's Connect
+<h3>🧰 Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge">
+  <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge">
+</p>
 
-📧 Email:ndilipkumar075@gmail.com
+<hr>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer"/> </p> ```
+<h2>🚀 Projects</h2>
 
+<h3>📈 Data Analytics Projects</h3>
+<ul>
+  <li>Data cleaning and preprocessing using Excel & Python</li>
+  <li>SQL queries for extracting business insights</li>
+  <li>Interactive dashboards using Tableau and Power BI</li>
+</ul>
 
+<p>🧪 <i>More analytics projects coming soon...</i></p>
+
+<hr>
+
+<h2>📫 Connect With Me</h2>
+
+<p>
+📧 <b>Email:</b> ndilipkumar075@gmail.com <br>
+🌐 <b>GitHub:</b> <a href="https://github.com/your-username">github.com/your-username</a>
+</p>
+
+<hr>
+
+<p align="center">
+⭐ Thanks for visiting my profile!
+</p>
 
 
 
