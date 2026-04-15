@@ -1,157 +1,85 @@
-<h1 align="center">👋 Hi, I'm N Dilip Kumar</h1>
+👋 Hi, I'm N Dilip Kumar
 
-<p align="center">
 Aspiring Data Analyst & Business Analyst | Bengaluru, India
-</p>
 
-<hr>
+🎯 Career Objective
 
-<h2>🎯 Career Objective</h2>
-<p>
-Aspiring Data Analyst and Business Analyst currently undergoing professional training at ExcelR.
-Skilled in Python, SQL, Excel, Power BI, Tableau, and data analysis techniques.
-Seeking an entry-level role to analyze data, generate insights, and support data-driven business decisions.
-</p>
+I am an aspiring Data Analyst and Business Analyst. I have completed my Data Analyst course and a 3-month internship where I worked on the Adventure Works Cycles dataset. I have knowledge in Python, SQL, Excel, Power BI, and Tableau. I am looking for an entry-level opportunity where I can work with data, learn more, and support business decisions.
 
-<hr>
+🎓 Education
 
-<h2>🎓 Education</h2>
-<ul>
-  <li>
-    <b>Master of Computer Applications (MCA)</b><br>
-    Visvesvaraya Technological University, Bangalore<br>
-    CGPA: 8.7 / 10
-  </li>
-  <br>
-  <li>
-    <b>B.Com (Computer Applications)</b><br>
-    Sri Venkateswara University, Tirupati<br>
-    CGPA: 8.2 / 10
-  </li>
-</ul>
+Master of Computer Applications (MCA)
+Visvesvaraya Technological University, Bangalore
+CGPA: 8.7 / 10
 
-<hr>
+B.Com (Computer Applications)
+Sri Venkateswara University, Tirupati
+CGPA: 8.2 / 10
 
-<h2>🧑‍💼 Internships & Training</h2>
+🧑‍💼 Internships & Training
 
-<h3>📊 Data Analyst / Business Analyst Trainee</h3>
-<p>
-<b>ExcelR, Bengaluru</b><br>
-Currently undergoing professional training in Data Analytics and Business Analysis.
-</p>
-<ul>
-  <li>Working with Excel, SQL, Python, and R for data cleaning, preprocessing, and analysis</li>
-  <li>Building interactive dashboards using Power BI and Tableau</li>
-  <li>Learning business-focused data interpretation and insight generation</li>
-</ul>
+Data Analyst / Business Analyst Trainee
+ExcelR, Bengaluru
 
-<h3>🤖 Artificial Intelligence Internship</h3>
-<p>
-<b>Internz Learn</b> (Jun 2025 – Sep 2025)
-</p>
-<ul>
-  <li>Completed a certified AI internship</li>
-  <li>Gained exposure to machine learning concepts and real-world applications</li>
-</ul>
+Completed Data Analyst course with hands-on practice
+Worked on Excel, SQL, Python, and R for data analysis
+Created dashboards using Power BI and Tableau
+Learned how to convert data into business insights
 
-<hr>
+Data Analyst Intern — Adventure Works Cycles
+Jan 2026 – Mar 2026
 
-<h2>🛠️ Technical Skills</h2>
+Worked on sales dataset and prepared data for analysis
+Created columns like year, month, and financial quarter
+Calculated sales, cost, and profit
+Built dashboards using Excel, Power BI, and Tableau
+Analyzed data by product, region, and customer
 
-<h3>📊 Data Analysis & Business Intelligence</h3>
-<ul>
-  <li>Power BI</li>
-  <li>Tableau</li>
-  <li>MS Excel</li>
-  <li>Python (Data Analysis)</li>
-  <li>SQL</li>
-</ul>
+Artificial Intelligence Internship
+Internz Learn (Jun 2025 – Sep 2025)
 
-<h3>🗄️ Databases</h3>
-<ul>
-  <li>MySQL</li>
-  <li>MongoDB</li>
-</ul>
+Learned basic machine learning concepts
+Worked with Python libraries for simple models
+🛠️ Technical Skills
 
-<h3>💻 Programming Languages</h3>
-<ul>
-  <li>Python</li>
-  <li>R</li>
-  <li>Java</li>
-</ul>
+Data & BI Tools:
+Power BI, Tableau, MS Excel
 
-<h3>🌐 Web Development (Secondary)</h3>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-</ul>
+Programming & Querying:
+Python, SQL, R
 
-<h3>🧰 Tools & Platforms</h3>
-<ul>
-  <li>VS Code</li>
-  <li>GitHub</li>
-  <li>Postman</li>
-  <li>Jupyter Notebook</li>
-</ul>
+Databases:
+MySQL, MongoDB
 
-<hr>
+Concepts:
+Data Cleaning, Data Analysis, Data Visualization, Dashboard Creation, EDA
 
-<h2>🚀 Projects</h2>
+Tools:
+VS Code, GitHub, Jupyter Notebook, Postman
 
-<h3>📈 Retail Demand, Pricing & Sales Intelligence Analytics</h3>
-<p><b>Data Analytics Project</b></p>
-<ul>
-  <li>Cleaned and analyzed retail sales and pricing data using Python (Pandas, NumPy)</li>
-  <li>Performed exploratory data analysis to identify demand trends</li>
-  <li>Used Matplotlib for visual analysis</li>
-  <li>Applied SQL/MySQL queries to summarize business data</li>
-  <li>Created interactive dashboards using Power BI and Tableau</li>
-</ul>
+🚀 Projects
+📊 Adventure Works Sales Dashboard
+Worked on Adventure Works sales dataset
+Cleaned and prepared data using Excel and SQL
+Built dashboards in Power BI and Tableau
+Analyzed sales, profit, and regional performance
+🍽️ Food Price Forecasting
+Cleaned and analyzed data using Python and Excel
+Identified trends using EDA
+Created charts for analysis
+📱 Mobile Voting App for Student Elections
+Developed voting system with user roles
+Created admin dashboard for results
+🐶 Smart Pet Feeder
+Built automatic feeder using ESP32
+Controlled using mobile app
+🌐 Additional Information
 
-<h3>🍽️ Food Price Forecasting</h3>
-<p><b>Data Analysis Project</b></p>
-<ul>
-  <li>Cleaned and preprocessed food price datasets</li>
-  <li>Performed EDA to identify seasonal trends</li>
-  <li>Created visualizations to support forecasting insights</li>
-</ul>
+Languages: English, Telugu, Tamil, Kannada
 
-<h3>📱 Mobile Voting App for Student Elections</h3>
-<p><b>Application Development Project</b></p>
-<ul>
-  <li>Built a mobile-first election system using React Native and Node.js</li>
-  <li>Implemented secure JWT-based authentication</li>
-  <li>Designed admin dashboard for results and user management</li>
-  <li>Integrated real-time updates using Socket.IO</li>
-</ul>
+📫 Contact
 
-<h3>🐶 Smart Pet Feeder</h3>
-<p><b>IoT Academic Project</b></p>
-<ul>
-  <li>Designed an automated pet feeder using ESP32 and ultrasonic sensors</li>
-  <li>Programmed using Embedded C with Arduino IDE</li>
-  <li>Integrated Blynk app for mobile-based monitoring and control</li>
-</ul>
+Email: ndilipkumar075@gmail.com
 
-<hr>
-
-<h2>🌐 Additional Information</h2>
-<ul>
-  <li><b>Languages:</b> English, Telugu, Tamil, Kannada</li>
-</ul>
-
-<hr>
-
-<h2>📫 Contact</h2>
-<p>
-📧 Email: <b>ndilipkumar075@gmail.com</b><br>
-🔗 GitHub: <b>github.com/dilip865</b><br>
-🔗 LinkedIn: <b>linkedin.com/in/dilip-kumar-o0</b>
-</p>
-
-<hr>
-
-<p align="center">
-⭐ Profile content strictly aligned with resume
-</p>
+GitHub: github.com/dilip865
+LinkedIn: linkedin.com/in/dilip-kumar-o0/
