@@ -2,7 +2,7 @@
 Aspiring Data Analyst & Business Analyst | Bengaluru, India  
 
 ## Career Objective  
-I have completed my Data Analyst course and a 3-month internship working on the Adventure Works Cycles dataset. I have knowledge in Python, SQL, Excel, Power BI, and Tableau. I am looking for an entry-level opportunity where I can analyze data, build dashboards, and support business decisions.
+I have completed my Data Analyst course and a 6-month internship working on the Adventure Works Cycles dataset. I have knowledge in Python, SQL, Excel, Power BI, and Tableau. I am looking for an entry-level opportunity where I can analyze data, build dashboards, and support business decisions.
 
 ## Education  
 **Master of Computer Applications (MCA)**  
