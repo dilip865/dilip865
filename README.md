@@ -23,7 +23,7 @@ ExcelR, Bengaluru
 - Learned data cleaning and analysis techniques  
 
 **Data Analyst Intern — Adventure Works Cycles**  
-Jan 2026 – Mar 2026  
+nov 2025 – May 2026  
 - Worked on sales dataset and prepared data for analysis  
 - Created date columns like year, month, and quarter  
 - Calculated sales, cost, and profit  
