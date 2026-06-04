@@ -23,6 +23,18 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
+## 🚀 About Me
+
+🎓 MCA Graduate (CGPA: 8.7)
+
+📈 Data Analyst with 6 Months Internship Experience
+
+📊 Skilled in SQL, Power BI, Tableau, Python & Advanced Excel
+
+📌 Completed 3 End-to-End Data Analytics Projects
+
+💼 Actively Seeking Entry-Level Data Analyst Opportunities
+---
 
 ## 📊 PROJECTS
 
@@ -43,5 +55,13 @@
 ✔ Python Analytics  
 
 ---
+## 📫 Connect With Me
+
+🔗 LinkedIn: www.linkedin.com/in/dilip-kumar-o0
+
+🔗 GitHub: github.com/dilip865
+
+📧 Email: ndilipkumar075@gmail.com
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
