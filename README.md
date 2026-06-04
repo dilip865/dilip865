@@ -1,119 +1,47 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=N%20Dilip%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20|%20Power%20BI%20|%20SQL%20|%20Python&descAlignY=60"/>
+
 <div align="center">
 
-# 👋 Hi, I'm N. Dilip Kumar
+# 🚀 DATA ANALYST PORTFOLIO
 
-### 📊 Data Analyst | Business Intelligence Enthusiast | Open to Work
-
-<img src="https://img.shields.io/badge/Open%20To%20Work-Data%20Analyst-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Location-Bengaluru-blue?style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Data+Analyst;Power+BI+Developer;SQL+Specialist;Python+Analytics;Open+To+Work"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🟣 TECH STACK
 
-🎓 MCA Graduate (CGPA: 8.7)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-📈 Data Analyst with 6 Months Internship Experience
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 
-📊 Skilled in SQL, Power BI, Tableau, Python & Advanced Excel
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-📌 Completed 3 End-to-End Data Analytics Projects
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-💼 Actively Seeking Entry-Level Data Analyst Opportunities
-
----
-
-## 🛠 Tech Stack
-
-### Data Analytics
-
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
-
-### Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-# 📂 Featured Projects
+## 📊 PROJECTS
 
-## 📊 Adventure Works Sales Analysis
+### 📈 Adventure Works Sales Dashboard
+✔ Sales Analysis  
+✔ Profit Analysis  
+✔ Customer Insights  
+✔ Regional Performance  
 
-✔ Sales Dashboard Development
+### ✈️ Airline Data Analysis
+✔ Revenue Analysis  
+✔ Occupancy Analysis  
+✔ Flight Performance  
 
-✔ Customer & Product Analysis
-
-✔ Regional Performance Tracking
-
-✔ KPI Reporting
-
-**Tools:** Power BI, SQL, Excel, Tableau
-
----
-
-## ✈️ Airline Data Analysis
-
-✔ Revenue Analysis
-
-✔ Flight Performance Monitoring
-
-✔ Occupancy Insights
-
-✔ Route Analysis
-
-**Tools:** Power BI, SQL, Excel
+### 🍽️ Food Price Forecasting
+✔ Trend Analysis  
+✔ Forecasting  
+✔ Python Analytics  
 
 ---
 
-## 🍽 Food Price Forecasting
-
-✔ Trend Analysis
-
-✔ Data Visualization
-
-✔ Forecasting Models
-
-✔ Python Analytics
-
-**Tools:** Python, Pandas, NumPy, Matplotlib
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dilip865&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilip865&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 📫 Connect With Me
-
-🔗 LinkedIn: www.linkedin.com/in/dilip-kumar-o0
-
-🔗 GitHub: github.com/dilip865
-
-📧 Email: ndilipkumar075@gmail.com
-
----
-
-<div align="center">
-
-### ⭐ Turning Data into Actionable Business Insights
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
